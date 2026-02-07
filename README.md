@@ -62,7 +62,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of 713+ agentic skills for AI coding assistants. | ![GitHub stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills.svg?cacheSeconds=86400) |
+| [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) | Agentic skills for AI coding assistants. | ![GitHub stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills.svg?cacheSeconds=86400) |
 | [Awesome AI-ML-DL](https://github.com/neomatrix369/awesome-ai-ml-dl) | Artificial intelligence, machine learning, and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/neomatrix369/awesome-ai-ml-dl.svg?cacheSeconds=86400) |
 | [Awesome AI Tools](https://github.com/ikaijua/Awesome-AITools) | Utilities of artificial intelligence. | ![GitHub stars](https://img.shields.io/github/stars/ikaijua/Awesome-AITools.svg?cacheSeconds=86400) |
 | [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | Artificial intelligence courses, books, video lectures and papers. | ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence.svg?cacheSeconds=86400) |
