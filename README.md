@@ -62,6 +62,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) | Agentic skills for AI coding assistants. | ![GitHub stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills.svg?cacheSeconds=86400) |
 | [Awesome AI-ML-DL](https://github.com/neomatrix369/awesome-ai-ml-dl) | Artificial intelligence, machine learning, and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/neomatrix369/awesome-ai-ml-dl.svg?cacheSeconds=86400) |
 | [Awesome AI Tools](https://github.com/ikaijua/Awesome-AITools) | Utilities of artificial intelligence. | ![GitHub stars](https://img.shields.io/github/stars/ikaijua/Awesome-AITools.svg?cacheSeconds=86400) |
 | [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | Artificial intelligence courses, books, video lectures and papers. | ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence.svg?cacheSeconds=86400) |
@@ -72,6 +73,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | Projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg?cacheSeconds=86400) |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | Machine learning frameworks, libraries, and software. | ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg?cacheSeconds=86400) |
 | [Awesome ML](https://github.com/underlines/awesome-ml) | Resources on machine learning, analytics, and data science. | ![GitHub stars](https://img.shields.io/github/stars/underlines/awesome-ml.svg?cacheSeconds=86400) |
+| [Awesome OpenCode](https://github.com/awesome-opencode/awesome-opencode) | Open code tools and resources. | ![GitHub stars](https://img.shields.io/github/stars/awesome-opencode/awesome-opencode.svg?cacheSeconds=86400) |
 | [Awesome Project Ideas](https://github.com/NirantK/awesome-project-ideas) | Practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas.svg?cacheSeconds=86400) |
 | [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) | Machine learning libraries written in Rust. | ![GitHub stars](https://img.shields.io/github/stars/vaaaaanquish/Awesome-Rust-MachineLearning.svg?cacheSeconds=86400) |
 
